@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoListManager</string>
+    <string name="add_string">Add</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="tasks">
+	    <item>buy</item>
+	</string-array>
+	<string name="task_hint">Enter New Task</string>
+</resources>
